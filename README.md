@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/souvik_manna_" target="blank"><img src="https://img.shields.io/twitter/follow/souvik_manna_?logo=twitter&style=for-the-badge" alt="souvik_manna_" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **many things,I believe that everyday is a learning opportunity**
 
-- 💬 Ask me about **HTML,CSS,JAVA**
+- 💬 Ask me about **HTML,CSS,JAVA,JAVASRIPT**
 
 - 📫 How to reach me **souvik2005110@gmail.com**
 
