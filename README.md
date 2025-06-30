@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvikmanna2005&label=Profile%20views&color=0e75b6&style=flat" alt="souvikmanna2005" /> </p>
 
-<p align="left"> <a href="https://twitter.com/souvik_manna_" target="blank"><img src="https://img.shields.io/twitter/follow/souvik_manna_?logo=twitter&style=for-the-badge" alt="souvik_manna_" /></a> </p>
 
 - 🌱 I’m currently learning **many things,I believe that everyday is a learning opportunity**
 
