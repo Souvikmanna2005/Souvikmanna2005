@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **souvik2005110@gmail.com**
 
+- 💬 My Portfolio  **https://codesouvik.netlify.app/** 
+
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
