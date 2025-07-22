@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **many things,I believe that everyday is a learning opportunity**
 
-- 💬 Ask me about **HTML,CSS,JAVA,JAVASCRIPT**
-
 - 📫 How to reach me **souvik2005110@gmail.com**
 
 - 💬 My Portfolio  **https://codesouvik.netlify.app/** 
