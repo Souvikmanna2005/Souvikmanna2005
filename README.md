@@ -1,3 +1,8 @@
+<img src="https://i.pinimg.com/1200x/4b/45/ad/4b45ad9a645cbedef02dd369b96c9a28.jpg" alt="Banner" style="width:100%;" />
+
+# 👋 Hi, I’m Souvik Manna
+Welcome to my GitHub profile! I'm a BCA student passionate about web development, programming, and design.
+
 <h1 align="center">Hi 👋, I'm Souvik Manna</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
