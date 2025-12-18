@@ -32,6 +32,9 @@
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=souvikmanna2005&theme=tokyo-night&hide_border=true" />
-
-
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Programmer;Lifelong+Learner;BCA+Student" />
+</p>
+
