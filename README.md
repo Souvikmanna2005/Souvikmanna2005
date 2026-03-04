@@ -26,8 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=souvikmanna2005&layout=compact&langs_count=8" alt="souvikmanna2005" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikmanna2005&show_icons=true&locale=en" alt="souvikmanna2005" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikmanna2005&" alt="souvikmanna2005" /></p>
 
 <hr style="border: 0.5px solid #30363d;">
